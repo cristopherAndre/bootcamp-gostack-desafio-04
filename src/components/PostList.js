@@ -66,7 +66,7 @@ class PostList extends Component {
         },
         date: '04 Jun 2019',
         content:
-          'Fala galera, beleza?\nEstou fazendo o Bootcamp GoStack e está sendo muito massa! Alguém mais aí fazendo? Comenta aí na publicação para trocarmos uma idéia',
+          'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum condimentum condimentum lacus at consectetur. Praesent sed varius purus. Phasellus tristique tempus metus non sagittis.',
         comments: [
           {
             id: 4,
